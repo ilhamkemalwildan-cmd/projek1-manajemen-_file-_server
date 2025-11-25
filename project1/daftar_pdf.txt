@@ -1,0 +1,4 @@
+Company/Engineer/Documents/laporan_q1.pdf
+Company/Engineer/Archives/laporan_q1.pdf
+Company/HR/Documents/data_karyawan.pdf
+Company/HR/Archives/data_karyawan.pdf
